@@ -24,4 +24,4 @@ Saya seorang pembangun perisian / pelajar yang berminat dalam bidang **pembangun
 ---
 
 ## 🔗 Hubungi Saya
-[LinkedIn](https://linkedin.com/in/USERNAME_ANDA) | [Email](mailto:firdaus-07@graduate.utm.my)
+[LinkedIn]([https://linkedin.com/in/USERNAME_ANDA](https://www.linkedin.com/in/muhammad-firdaus-bin-amir-3604b1434/)) | [Email](mailto:firdaus-07@graduate.utm.my)
