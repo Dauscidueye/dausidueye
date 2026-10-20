@@ -1,10 +1,11 @@
-# Hi 🖐️, Saya Muhammad Firdaus!
+# Hi 🖐️, Saya Muhammad Firdaus Bin Amir!
 
-Saya seorang pembangun perisian / pelajar yang berminat dalam bidang **pembangunan web** dan **teknologi**.
+Saya seorang pelajar di **Universiti Teknologi Malaysia (UTM)** yang berminat dalam bidang **pembangunan perisian** dan **teknologi**.
 
 ---
 
 ## 🚀 Mengenai Saya
+- 🎓 Pendidikan: **Universiti Teknologi Malaysia (UTM)**
 - 🔭 Saya sedang mengusahakan: **Projek Web / Aplikasi Pertama Saya**
 - 🌱 Saya sedang mempelajari: **HTML, CSS, JavaScript, dan GitHub**
 - 💬 Tanya saya tentang: **Pembangunan Asas / Teknologi**
@@ -24,4 +25,4 @@ Saya seorang pembangun perisian / pelajar yang berminat dalam bidang **pembangun
 ---
 
 ## 🔗 Hubungi Saya
-[LinkedIn]([https://linkedin.com/in/USERNAME_ANDA](https://www.linkedin.com/in/muhammad-firdaus-bin-amir-3604b1434/)) | [Email](mailto:firdaus-07@graduate.utm.my)
+[LinkedIn](https://linkedin.com/in/Muhammad-Firdaus-Bin-Amir) | [Email](mailto:firdaus-07@graduate.utm.my)
