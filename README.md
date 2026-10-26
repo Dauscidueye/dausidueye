@@ -1,28 +1,37 @@
-# Hi 🖐️, Saya Muhammad Firdaus Bin Amir!
+👋 Hi everyone! I’m Firdaus
 
-Saya seorang pelajar di **Universiti Teknologi Malaysia (UTM)** yang berminat dalam bidang **pembangunan perisian** dan **teknologi**.
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="150" alt="Profile Picture">
+</p>
+<p align="center">
+  🎓 Bachelor of Computer Science (Data Engineering) with Honours at Universiti Teknologi Malaysia (UTM) ✨
+</p>
+<p align="center">
+  *"Every expert was once a beginner."*
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-firdaus-bin-amir-3604b1434/">🔗 LinkedIn</a> |
+  <a href="mailto:firdaus-07@graduate.utm.my">📧 Gmail</a>
+</p>
 
----
+⸻
 
-## 🚀 Mengenai Saya
-- 🎓 Pendidikan: **Universiti Teknologi Malaysia (UTM)**
-- 🔭 Saya sedang mengusahakan: **Projek Web / Aplikasi Pertama Saya**
-- 🌱 Saya sedang mempelajari: **HTML, CSS, JavaScript, dan GitHub**
-- 💬 Tanya saya tentang: **Pembangunan Asas / Teknologi**
-- 📫 Cara menghubungi saya: **firdaus-07@graduate.utm.my**
+📌 About Me
 
----
+* 🎓 First-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
+* 💻 Currently learning programming and computer science fundamentals.
+* 🌱 Developing my skills in Python, C++, and SQL.
+* 🚀 Interested in exploring Data Engineering and technology.
+* 🤝 Always eager to learn new things and collaborate on projects.
 
-## 🛠️ Kemahiran & Alat (Skills)
-- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript
-- **Alat & Platform:** Git, GitHub, VS Code
+⸻
 
----
+🛠️ Programming Languages & Tools
 
-## 📊 Statistik GitHub Saya
-![Statistik GitHub Firdaus](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radial)
+* Languages: C++ (Beginner), Python (Learning), SQL (Learning)
+* Tools: Git, GitHub, Visual Studio Code
+* Currently Learning: Programming Fundamentals & Data Engineering Basics
 
----
+⸻
 
-## 🔗 Hubungi Saya
-[LinkedIn](https://linkedin.com/in/Muhammad-Firdaus-Bin-Amir) | [Email](mailto:firdaus-07@graduate.utm.my)
+⭐ Thank you for visiting my profile!
