@@ -1,37 +1,76 @@
 👋 Hi everyone! I’m Firdaus
 
 <p align="center">
-  <img src="https://github.com/Dauscidueye/dausidueye/blob/main/WhatsApp%20Image%202026-08-21%20at%202.39.12%20PM.jpeg" width="150" alt="Profile Picture">
+  <img src="https://raw.githubusercontent.com/Dauscidueye/dausidueye/main/WhatsApp%20Image%202026-08-21%20at%202.39.12%20PM.jpeg" width="160" alt="Firdaus's Profile Picture">
 </p>
 <p align="center">
-  🎓 Bachelor of Computer Science (Data Engineering) with Honours at Universiti Teknologi Malaysia (UTM) ✨
+  🎓 Bachelor of Computer Science (Data Engineering) with Honours
+  <br>
+  Universiti Teknologi Malaysia (UTM)
 </p>
 <p align="center">
-  *"Every expert was once a beginner."*
+  <i>"Every expert was once a beginner."</i>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-firdaus-bin-amir-3604b1434/">🔗 LinkedIn</a> |
-  <a href="mailto:firdaus-07@graduate.utm.my">📧 Gmail</a>
+  <a href="https://www.linkedin.com/in/muhammad-firdaus-bin-amir-3604b1434/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:firdaus-07@graduate.utm.my">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ⸻
 
-📌 About Me
+👤 About Me
 
-* 🎓 First-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
+* 🎓 First-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM).
 * 💻 Currently learning programming and computer science fundamentals.
-* 🌱 Developing my skills in Python, C++, and SQL.
-* 🚀 Interested in exploring Data Engineering and technology.
+* 🌱 Developing my programming and problem-solving skills.
+* 🚀 Interested in Data Engineering, Data Analytics, and technology.
 * 🤝 Always eager to learn new things and collaborate on projects.
+* 📧 Email: firdaus-07@graduate.utm.my
 
 ⸻
 
 🛠️ Programming Languages & Tools
 
-* Languages: C++ (Beginner), Python (Learning), SQL (Learning)
-* Tools: Git, GitHub, Visual Studio Code
-* Currently Learning: Programming Fundamentals & Data Engineering Basics
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</p>
 
 ⸻
 
-⭐ Thank you for visiting my profile!
+🌱 Currently Learning
+
+* 📚 Programming Fundamentals
+* 🧠 Problem-Solving and Algorithms
+* 💻 Computer Systems and Organization
+* ☁️ Introduction to Cloud Computing
+* 📊 Data Engineering Fundamentals
+
+⸻
+
+📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dauscidueye&show_icons=true&theme=github_dark&hide_border=true" alt="Firdaus's GitHub Statistics">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dauscidueye&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages">
+</p>
+
+⸻
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br>
+  <i>Learning, building, and growing one step at a time.</i>
+</p>
