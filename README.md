@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Dauscidueye/dausidueye/main/WhatsApp%20Image%202026-08-21%20at%202.39.12%20PM.jpeg" width="160" alt="Firdaus's Profile Picture">
 </p>
 <p align="center">
-  🎓 Bachelor of Computer Science (Data Engineering) with Honours
+  🎓 Computer Science (Data Engineering) Student
   <br>
   Universiti Teknologi Malaysia (UTM)
 </p>
@@ -16,61 +16,83 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:firdaus-07@graduate.utm.my">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-⸻
-
-👤 About Me
-
-* 🎓 First-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM).
-* 💻 Currently learning programming and computer science fundamentals.
-* 🌱 Developing my programming and problem-solving skills.
-* 🚀 Interested in Data Engineering, Data Analytics, and technology.
-* 🤝 Always eager to learn new things and collaborate on projects.
-* 📧 Email: firdaus-07@graduate.utm.my
-
-⸻
-
-🛠️ Programming Languages & Tools
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-8B5CF6?style=for-the-badge" alt="About Me">
 </p>
 
-⸻
+👤 Who Am I?
 
-🌱 Currently Learning
+* 🎓 First-year student at Universiti Teknologi Malaysia (UTM).
+* 💻 Currently learning programming and computer science fundamentals.
+* 🌱 Developing my technical and problem-solving skills.
+* 🚀 Interested in Data Engineering, Data Analytics, and technology.
+* 🤝 Always open to learning and collaborating with others.
 
-* 📚 Programming Fundamentals
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<p align="left">
+  <img src="https://img.shields.io/badge/02-TECH%20STACK-38BDF8?style=for-the-badge" alt="Tech Stack">
+</p>
+
+💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<p align="left">
+  <img src="https://img.shields.io/badge/03-CURRENTLY%20LEARNING-22C55E?style=for-the-badge" alt="Currently Learning">
+</p>
+
+* 📘 Programming Fundamentals
 * 🧠 Problem-Solving and Algorithms
-* 💻 Computer Systems and Organization
+* 🖥️ Computer Systems and Organization
 * ☁️ Introduction to Cloud Computing
 * 📊 Data Engineering Fundamentals
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dauscidueye&show_icons=true&theme=github_dark&hide_border=true" alt="Firdaus's GitHub Statistics">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dauscidueye&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages">
+<p align="left">
+  <img src="https://img.shields.io/badge/04-INTERESTS%20%26%20GOALS-F59E0B?style=for-the-badge" alt="Interests and Goals">
 </p>
 
-⸻
+* 📊 Data Engineering and Data Analytics
+* 💡 Technology and Innovation
+* 🤝 Teamwork and Collaboration
+* 🚀 Build projects and gain practical experience
+* 🌱 Grow into a skilled Data Engineer
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<p align="left">
+  <img src="https://img.shields.io/badge/05-GITHUB%20STATISTICS-EC4899?style=for-the-badge" alt="GitHub Statistics">
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dauscidueye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dauscidueye&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+</p>
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
-  <br>
-  <i>Learning, building, and growing one step at a time.</i>
+  ⭐ <i>Learning today, building tomorrow.</i>
 </p>
