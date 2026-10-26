@@ -1,7 +1,7 @@
 👋 Hi everyone! I’m Firdaus
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="150" alt="Profile Picture">
+  <img src="https://github.com/Dauscidueye/dausidueye/blob/main/WhatsApp%20Image%202026-08-21%20at%202.39.12%20PM.jpeg" width="150" alt="Profile Picture">
 </p>
 <p align="center">
   🎓 Bachelor of Computer Science (Data Engineering) with Honours at Universiti Teknologi Malaysia (UTM) ✨
